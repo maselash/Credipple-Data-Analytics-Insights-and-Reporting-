@@ -1,7 +1,7 @@
 # Credipple-Data-Analytics-Insights-and-Reporting-
 This project was part of a data analytics competitin. The goal was to use historical campaign data to build a digital strategy that enhances brand awareness, digital presence, and customer acquisition for AEX. 
 
-AEXis a South African platform enabling ordinary people to invest in startups.
+AEX is a South African platform enabling ordinary people to invest in startups.
 I analysed campaign data, identified key patterns, and gave recommendations to optimize both organic and paid media strategies. My work earned 1st place in the competition.
 
 **The project focused on three key goals:**
