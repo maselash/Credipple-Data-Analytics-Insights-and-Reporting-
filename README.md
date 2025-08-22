@@ -28,6 +28,6 @@ Cleaned AEX’s raw previous campaign and analysed it on Excel
 
 Identified high-performing/underperforming channels and the reasons behind their performance
 
-Analysed their target audience - their pain points and passion points to craft a message that relates to them
+Analysed their target audience - their pain points and passion points to craft a message that best relates to them
 
 Offered recomendentation and a digital marketing strategy (Sales Funnel) increase ROI
