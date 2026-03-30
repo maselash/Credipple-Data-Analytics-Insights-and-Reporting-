@@ -22,7 +22,8 @@ Boost sign-ups from 1,350 → 3,000.
 Increase purchases (conversions) from 130 → 300.
 
 
-**I excuted the task by doing the following**
+
+**I excuted the task by doing the following:**
 
 Cleaned AEX’s raw previous campaign and analysed it on Excel
 
