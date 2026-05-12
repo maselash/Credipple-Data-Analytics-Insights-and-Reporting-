@@ -24,4 +24,4 @@ I analysed campaign data, identified key patterns, and gave recommendations to o
 - Cleaned AEX’s previous campaign data and analysed it on Excel
 = Identified high-performing/underperforming channels and the reasons behind their performance
 - Analysed their target audience - their pain points and passion points to craft a message that best relates to them
-- Offered recomendentation and a digital marketing strategy (Sales Funnel) increase ROI
+- Offered recommendations and a digital marketing strategy (Sales Funnel) increase ROI
